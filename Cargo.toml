@@ -1,6 +1,6 @@
 [package]
 name = "succ"
-description = "A version of SUCC (Sexy and Utilitarian C# Configuration by Jimmy Cushnie) ported for rust"
+description = "A version of SUCC by Jimmy Cushnie ported to rust"
 version = "0.1.0"
 authors = ["DoctorVWA"]
 edition = "2018"
