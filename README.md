@@ -1,6 +1,6 @@
-# Rust SUCC
+# Rusty SUCC
 
-Sexy and Utilitarian Crustacean Configuration.
+Sexy and Utilitarian ~~C#~~Crustacean Configuration.
 
 Ported from [Jimmy's SUCC](https://github.com/JimmyCushnie/SUCC) check it out!
 
